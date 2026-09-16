@@ -879,5 +879,32 @@
       "JavaScript",
       "Sql"
     ]
+  },
+  {
+    "email": "himanshu.kumar23b@iiitg.ac.in",
+    "name": "Himanshu Kumar",
+    "year": 2027,
+    "github": "KrHimanshu18",
+    "portfolio": "",
+    "leetcode": "",
+    "techStack": [
+      "C/c++",
+      "Java",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Next.js",
+      "Spring Boot",
+      "PostgreSQL",
+      "Redis",
+      "Kafka",
+      "Docker",
+      "Socket.io",
+      "Aws",
+      "..."
+    ]
   }
 ]
