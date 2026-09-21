@@ -917,5 +917,19 @@
     "techStack": [
       "? This user tried to edit someone else's data, lolxd ?"
     ]
+  },
+  {
+    "email": "sayak.dattagupta26b@iiitg.ac.in",
+    "name": "Sayak Dattagupta",
+    "year": 2030,
+    "github": "sayakdattagupta",
+    "portfolio": "https://sayakdattagupta.vercel.app/",
+    "leetcode": "overflowed_stack",
+    "techStack": [
+      "C",
+      "C++",
+      "Python",
+      "JavaScript"
+    ]
   }
 ]
